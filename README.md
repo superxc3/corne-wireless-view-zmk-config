@@ -1,8 +1,7 @@
 
-
-1. This is suitable for Corne 42 keys with or without niceview support. 
-2. Check branches for mouse support with oled/niceview. For advanced users only.
-
+## Branches explaination
+1. main-with-native-mouse: For niceview with mouse support (for advanced users)
+2. oled-with-native-mouse: For oled with mouse support (for advanced users)
 
 </br>
 
