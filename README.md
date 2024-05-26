@@ -1,5 +1,7 @@
+# Corne zmk mousekeys repo
+This repo is designed for advanced users to enable mousekeys supports. 
 
-## Branches explaination
+## Repo to go
 1. main-with-native-mouse: For niceview with mouse support (for advanced users)
 2. oled-with-native-mouse: For oled with mouse support (for advanced users)
 
