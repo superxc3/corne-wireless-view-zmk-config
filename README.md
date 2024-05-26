@@ -2,8 +2,8 @@
 This repo is designed for advanced users to enable mousekeys supports. 
 
 ## Repo to go
-1. main-with-native-mouse: For niceview with mouse support (for advanced users)
-2. oled-with-native-mouse: For oled with mouse support (for advanced users)
+1. [main-with-native-mouse](https://github.com/superxc3/corne-wireless-view-zmk-config/tree/main-with-native-mouse): For niceview with mouse support (for advanced users)
+2. [oled-with-native-mouse](https://github.com/superxc3/corne-wireless-view-zmk-config/tree/oled-with-native-mouse): For oled with mouse support (for advanced users)
 
 </br>
 
